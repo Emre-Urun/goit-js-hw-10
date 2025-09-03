@@ -44,31 +44,6 @@ Bu repository, **JavaScript kursu** kapsamında yapılan iki ödevi içerir:
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![iziToast](https://img.shields.io/badge/iziToast-FF6F61?style=flat&logo=react&logoColor=white)
 
-**Demo:**  
-
-![Snackbar Demo](assets/snackbar-demo.png)  
-*Snackbar promise bildirimi örneği.*
-
----
-
-## 📂 Proje Yapısı
-project/
-│
-├─ index.html
-├─ public/
-│ ├─ 01-timer.html
-│ └─ 02-snackbar.html
-├─ css/
-│ ├─ 01-timer.css
-│ └─ 02-snackbar.css
-├─ js/
-│ ├─ 01-timer.js
-│ └─ 02-snackbar.js
-├─ assets/ # Screenshot ve gif dosyaları
-│ ├─ timer-demo.png
-│ └─ snackbar-demo.png
-└─ package.json
-
 
 ---
 
